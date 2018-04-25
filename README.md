@@ -197,3 +197,4 @@ Best practice is to always declare variables with `const` and then, if you later
 [valid variable names]: https://mathiasbynens.be/notes/javascript-identifiers-es6
 [reserved words]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Reserved_keywords_as_of_ECMAScript_2015
 [future reserved words]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Future_reserved_keywords
+<p data-visibility='hidden'>PHRG JavaScript Variables</p>

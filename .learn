@@ -8,3 +8,5 @@ languages:
   - javascript
 resources:
   - 6
+
+parent_template: git@github.com:learn-co-curriculum/js-basics-variables-readme.git
